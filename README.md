@@ -15,8 +15,9 @@ My journey while learning Python.
 [Open PYTHON 1 Notebook](./PYTHON%201.ipynb)
 ---
 ## 2. Python Notes Include:
-- Basic Functions
+- Basic Functions Examples
 - Escape Sequences
 
 ## Notebook
 [Open PYTHON 2 Notebook](./PYTHON%202.ipynb)
+---
