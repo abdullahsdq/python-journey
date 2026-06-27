@@ -21,3 +21,12 @@ My journey while learning Python.
 ## Notebook
 [Open PYTHON 2 Notebook](./PYTHON%202.ipynb)
 ---
+## 3.python Notes include:
+- Tripple quotes works
+- variable
+- variable rules
+- input fuction
+- datatypes
+## Notebook
+[Open PYTHON 3.ipynb](PYTHON%203.ipynb)
+---
