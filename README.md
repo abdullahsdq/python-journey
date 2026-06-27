@@ -25,7 +25,7 @@ My journey while learning Python.
 - Tripple quotes works
 - variable
 - variable rules
-- input fuction
+- input function
 - datatypes
 ## Notebook
 [Open PYTHON 3.ipynb](PYTHON%203.ipynb)
