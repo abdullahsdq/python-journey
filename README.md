@@ -34,7 +34,7 @@ My journey while learning Python.
   - basic function  and method difference 
   - string method types
 ## notebook
-[PYTHON 4.ipynb](PYTHON%204.ipynb) and [PYTHON 4.ipynb](PYTHON%204.ipynb)
+[PYTHON 4.ipynb](PYTHON%204.ipynb) and [PYTHON 5.ipynb](PYTHON%205.ipynb)
 ---
     
 
