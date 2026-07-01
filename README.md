@@ -43,7 +43,7 @@ My journey while learning Python.
 - string repetition using concatenate
 - f string uses
 ## notebook
-- [PYTHON 6.ipynb](PYTHON%206.ipynb)
+[Open PYTHON 6 Notebook](./PYTHON%206.ipynb)
 ---
 
 
