@@ -36,7 +36,15 @@ My journey while learning Python.
 ## notebook
 [PYTHON 4.ipynb](PYTHON%204.ipynb) and [PYTHON 5.ipynb](PYTHON%205.ipynb)
 ---
-    
+## 5. string practice:
+- checking and changing dtype in python
+- mathematical activity tools
+- transformation activity tools
+- string repetition using concatenate
+- f string uses
+## notebook
+- [PYTHON 6.ipynb](PYTHON%206.ipynb)
+---
 
 
 
